@@ -1,2 +1,2 @@
 #6001번
-print("Hello")
+print("Hello") #Hello 출력
